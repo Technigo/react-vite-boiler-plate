@@ -2,7 +2,9 @@
 
 # Vite + React Technigo Boilerplate
 
-Welcome to the `react-vite-boiler-plate` project! This boilerplate is designed to give you a head start in your React projects, with a focus on understanding the structure and components. As a student of Technigo, you'll find this guide helpful in navigating and utilizing the repository.
+Welcome to the `react-vite-boiler-plate`!
+
+This boilerplate is designed to give you a head start in your React projects, with a focus on understanding the structure and components. As a student of Technigo, you'll find this guide helpful in navigating and utilizing the repository.
 
 ## Getting Started
 
