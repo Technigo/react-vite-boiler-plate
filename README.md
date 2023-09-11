@@ -6,6 +6,10 @@ Welcome to the `react-vite-boiler-plate`!
 
 This boilerplate is designed to give you a head start in your React projects, with a focus on understanding the structure and components. As a student of Technigo, you'll find this guide helpful in navigating and utilizing the repository.
 
+## Demo
+
+[You can check out a Demo of this boilerplate here.](https://technigo-react-vite-boiler-plate.netlify.app/)
+
 ## Getting Started
 
 1.  Clone the repository to your local machine.
