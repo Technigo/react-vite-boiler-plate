@@ -1,0 +1,11 @@
+.background {
+  background-color: red;
+  color: white;
+  max-width: 100%;
+  min-height: 250px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1em;
+  font-size: 1em;
+}
