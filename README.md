@@ -42,4 +42,6 @@ Tip: Before you decide to delete all components and start from scratch, we sugge
 
 ---
 
-We hope this guide helps you navigate and make the most out of this boilerplate. Happy coding, Technigo students!
+We hope this guide helps you navigate and make the most out of this boilerplate.
+
+Happy coding, Technigo students!
