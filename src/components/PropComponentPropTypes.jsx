@@ -16,7 +16,7 @@ export const PropComponentPropTypes = ({
       {likesPizza ? (
         <p>I like pineapple pizza! 🍍🍕</p>
       ) : (
-        <p>No, I am not a psychopath who likes pineapple pizza! 🍍🍕</p>
+        <p>No, I do not like pineapple pizza! 🍍🍕</p>
       )}
     </div>
   );
