@@ -1,5 +1,6 @@
-export const App = () => {
-  return (
-    <h1>React Boilerplate</h1>
-  )
-}
+// Removed duplicate App component
+import React from "react";
+import App from "./components/App";
+import './App.css'
+
+export default App;
